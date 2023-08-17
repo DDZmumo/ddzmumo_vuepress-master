@@ -3,7 +3,7 @@ module.exports = {
   "description": "开摆了，没什么好说的",
   //"base": "/in0.github.io/",
   "dest": "public",
-  "port": 8080,
+  "port": 80,
   plugins: [
     [
         '@vuepress/last-updated',
